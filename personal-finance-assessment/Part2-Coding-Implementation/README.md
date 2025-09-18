@@ -3,7 +3,7 @@
 ## Screenshots
 
 ### Transactions Screen
-![Transactions Screen](./Recording_20250918_134126.jpg)
+![Transactions Screen](./Recording_20250918_134126.jpg) (./Recording_20250918_134037.mp4)
 
 This folder contains React Native TypeScript app and native module templates to demonstrate the required features:
 - Transactions list with infinite scroll (FlatList)
