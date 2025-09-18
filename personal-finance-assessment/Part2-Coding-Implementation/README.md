@@ -1,5 +1,10 @@
 # Part 2 – Coding Implementation
 
+## Screenshots
+
+### Transactions Screen
+![Transactions Screen](./Recording_20250918_134126.jpg.)
+
 This folder contains React Native TypeScript app and native module templates to demonstrate the required features:
 - Transactions list with infinite scroll (FlatList)
 - Add Transaction form with Formik + Yup validation and optimistic updates
