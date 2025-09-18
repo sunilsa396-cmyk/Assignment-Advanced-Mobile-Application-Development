@@ -4,7 +4,7 @@ This section demonstrates my approach to **Git version control**, **commit disci
 
 ---
 
-## 🌀 Git Strategy
+##  Git Strategy
 - **Feature Branching**: Each feature/part of the assignment is developed in its own branch (e.g., `feature/transactions`, `feature/charts`).
 - **Commit Often**: Small, incremental commits for clarity.
 - **Pull Requests (if in team)**: Peer review before merge.
@@ -12,7 +12,7 @@ This section demonstrates my approach to **Git version control**, **commit disci
 
 ---
 
-## 📜 Sample Commit Messages
+## Sample Commit Messages
 (Full examples in `sample-commits.txt`)
 
 - `feat(transactions): add form validation for new entry`
@@ -24,7 +24,7 @@ This section demonstrates my approach to **Git version control**, **commit disci
 
 ---
 
-## 📘 Documentation
+## Documentation
 - Each part of the assessment has its own **README.md** file.
 - **main-README.md** in root acts as the entry point for navigation.
 - Architecture diagrams and screenshots are embedded where needed.
@@ -32,14 +32,15 @@ This section demonstrates my approach to **Git version control**, **commit disci
 
 ---
 
-## 🧪 Testing Instructions
+## Testing Instructions
 - **React Native (Jest)** → Run `npm test` or `yarn test`
 - **Kotlin (JUnit)** → Run tests with Android Studio / Gradle
 - **Integration (Appium)** → Run with `appium test AddTransactionTest.java`
 
 ---
 
-## 🚀 Improvements
+## Improvements
 - Could integrate **Husky pre-commit hooks** (linting + tests before push).
 - Add **CI/CD pipeline** (GitHub Actions) for automated tests.
 - Include **Conventional Commits** for changelog generation.
+
