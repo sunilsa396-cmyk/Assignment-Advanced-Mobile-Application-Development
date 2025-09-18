@@ -6,7 +6,7 @@ Each part is organized into separate folders for clarity.
 ## Repository Structure
 
 - **Part 1 – Application Design**  
-  Path: [`./Part1-Application-Design/`](./Part1-Application-Design/)  
+  Path: [`./Part1-Application-Design/`](./personal-finance-assessment/Part1-Application-Design/)  
   Includes design diagrams, UI/UX mockups, and architecture notes.
 
 - **Part 2 – Coding Implementation**  
