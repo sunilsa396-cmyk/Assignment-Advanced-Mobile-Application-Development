@@ -1,0 +1,6 @@
+feat(transactions): add ability to add/edit/delete transactions
+feat(charts): add pie chart and bar chart for category visualization
+fix(api): handle timeout and show fallback error message
+perf(flatlist): enable lazy loading with pagination
+test(kotlin): add JUnit tests for transaction utils
+docs: add README for Part 6 with Git strategy
