@@ -1,5 +1,8 @@
 # Part 1 – Application Design
 
+### Architecture Diagram
+(./architecture-diagram.png)
+
 **Assignment:** Advanced Mobile Application Development  
 **Task:** Design a cross-platform mobile app for managing personal finances  
 
@@ -97,4 +100,5 @@ The following diagram illustrates the overall system architecture of the applica
   - Flipper / Reactotron → inspect network calls, logs, and local DB
   - Sentry → crash & error reporting
   - Structured logs with levels (`info`, `warn`, `error`)
+
 
