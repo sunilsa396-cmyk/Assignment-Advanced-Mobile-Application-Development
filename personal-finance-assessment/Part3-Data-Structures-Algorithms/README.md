@@ -1,6 +1,6 @@
 # Part 3 – Data Structures & Algorithms
 
-This folder contains React Native (JavaScript) and Kotlin implementations.
+Kotlin implementations.
 
 ## 1. Group Transactions
 - **Kotlin:** `kotlin/GroupTransactions.kt`
@@ -10,3 +10,4 @@ This folder contains React Native (JavaScript) and Kotlin implementations.
 
 ## 3. Recursive Compound Interest
 - **Kotlin:** `kotlin/CompoundInterest.kt`
+
