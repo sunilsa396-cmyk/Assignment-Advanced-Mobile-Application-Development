@@ -1,6 +1,6 @@
 # Part 2 – Coding Implementation
 
-This folder contains a sample React Native TypeScript app and native module templates to demonstrate the required features:
+This folder contains React Native TypeScript app and native module templates to demonstrate the required features:
 - Transactions list with infinite scroll (FlatList)
 - Add Transaction form with Formik + Yup validation and optimistic updates
 - React Context + useReducer state management
