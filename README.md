@@ -4,11 +4,27 @@ This repository contains my submission for the **Staff Engineer Assessment**.
 Each part is organized into separate folders for clarity.
 
 ## Repository Structure
-- [Part 1 – Application Design](./Part%201%20–%20Application%20Design/)
-- [Part 2 – Coding Implementation](./Part%202%20–%20Coding%20Implementation/)
-- [Part 3 – Data Structures & Algorithms](./Part%203%20–%20Data%20Structures%20&%20Algorithms/)
-- [Part 4 – Testing & Debugging](./Part%204%20–%20Testing%20&%20Debugging/)
-- [Part 5 – Performance Optimization](./Part%205%20–%20Performance%20Optimization/)
-- [Part 6 – Version Control & Documentation](./Part%206%20–%20Version%20Control%20&%20Documentation/)
 
-Each part includes detailed explanations, diagrams, code snippets, and supporting assets.
+- **Part 1 – Application Design**  
+  Path: `./Part1-Application-Design/`  
+  Includes design diagrams, UI/UX mockups, and architecture notes.
+
+- **Part 2 – Coding Implementation**  
+  Path: `./Part2-Coding-Implementation/`  
+  Contains implemented code, modules, and relevant scripts.
+
+- **Part 3 – Data Structures & Algorithms**  
+  Path: `./Part3-Data-Structures-Algorithms/`  
+  Includes algorithm solutions, code snippets, and explanations.
+
+- **Part 4 – Testing & Debugging**  
+  Path: `./Part4-Testing-Debugging/`  
+  Contains test cases, bug fixes, and debugging notes.
+
+- **Part 5 – Performance Optimization**  
+  Path: `./Part5-Performance-Optimization/`  
+  Includes profiling, optimization techniques, and results.
+
+- **Part 6 – Version Control & Documentation**  
+  Path: `./Part6-VersionControl-Documentation/`  
+  Contains Git history, documentation, and related assets.
