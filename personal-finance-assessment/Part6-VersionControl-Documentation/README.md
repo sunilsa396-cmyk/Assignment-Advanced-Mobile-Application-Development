@@ -13,7 +13,6 @@ This section demonstrates my approach to **Git version control**, **commit disci
 ---
 
 ## Sample Commit Messages
-(Full examples in `sample-commits.txt`)
 
 - `feat(transactions): add form validation for new entry`
 - `feat(charts): integrate react-native-chart-kit for expense visualization`
@@ -43,4 +42,5 @@ This section demonstrates my approach to **Git version control**, **commit disci
 - Could integrate **Husky pre-commit hooks** (linting + tests before push).
 - Add **CI/CD pipeline** (GitHub Actions) for automated tests.
 - Include **Conventional Commits** for changelog generation.
+
 
