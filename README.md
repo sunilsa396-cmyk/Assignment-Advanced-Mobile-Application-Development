@@ -4,11 +4,11 @@ This repository contains my submission for the **Staff Engineer Assessment**.
 Each part is organized into separate folders for clarity.
 
 ## Repository Structure
-- [Part 1 – Application Design](./Part1-Application-Design/README.md)
-- [Part 2 – Coding Implementation](./Part2-Coding-Implementation/README.md)
-- [Part 3 – Data Structures & Algorithms](./Part3-Data-Structures-Algorithms/README.md)
-- [Part 4 – Testing & Debugging](./Part4-Testing-Debugging/README.md)
-- [Part 5 – Performance Optimization](./Part5-Performance-Optimization/README.md)
-- [Part 6 – Version Control & Documentation](./Part6-VersionControl-Documentation/README.md)
+- [Part 1 – Application Design](./Part%201%20–%20Application%20Design/)
+- [Part 2 – Coding Implementation](./Part%202%20–%20Coding%20Implementation/)
+- [Part 3 – Data Structures & Algorithms](./Part%203%20–%20Data%20Structures%20&%20Algorithms/)
+- [Part 4 – Testing & Debugging](./Part%204%20–%20Testing%20&%20Debugging/)
+- [Part 5 – Performance Optimization](./Part%205%20–%20Performance%20Optimization/)
+- [Part 6 – Version Control & Documentation](./Part%206%20–%20Version%20Control%20&%20Documentation/)
 
 Each part includes detailed explanations, diagrams, code snippets, and supporting assets.
